@@ -8,15 +8,15 @@ This repository contains the Dockerfile for setting up a Cloud9 IDE on a Raspber
 
 ## Get Latest
 
-git clone (https://github.com/hwegge2/rpi-cloud9-ide)
-cd rpi-cloud9-ide
+- git clone (https://github.com/hwegge2/rpi-cloud9-ide)
+- cd rpi-cloud9-ide
 
 ## Features:
 
--No Defined Authentication
--User Defined Authentication
--Custom Workspace directory via mounting Volume containers
--Automated Build Process
+- No Defined Authentication
+- User Defined Authentication
+- Custom Workspace directory via mounting Volume containers
+- Automated Build Process
 
 # Base Docker Image
 [resin/rpi-raspbian:wheezy] (https://hub.docker.com/r/resin/rpi-raspbian/)
