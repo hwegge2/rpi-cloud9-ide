@@ -8,8 +8,8 @@ This repository contains the Dockerfile for setting up a Cloud9 IDE on a Raspber
 
 ## Get Latest
 
-git clone https://github.com/hwegge2/rpi-cloud9-ide
-git cd rpi-cloud9-ide
+git clone (https://github.com/hwegge2/rpi-cloud9-ide)
+cd rpi-cloud9-ide
 
 ## Features:
 
